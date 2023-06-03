@@ -1,2 +1,3 @@
-# Lab1MGu-a9
-Actividad de clase 
+# Laboratorio 1 - Guía 9
+
+Actividad en el aula 
