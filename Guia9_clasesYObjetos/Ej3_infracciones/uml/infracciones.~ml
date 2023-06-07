@@ -59,7 +59,7 @@
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">396</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">88</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">297</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">270</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">277</XPD:ATTR>
 <XPD:REF name="Model">S565qWEOB0G/tBUhDHIbUQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="rIbzs1FblESAK/bfb6vILgAA">
@@ -98,11 +98,10 @@
 <XPD:REF name="Views[3]">AG8SkpcqLU2Th3D8mNlMzwAA</XPD:REF>
 <XPD:ATTR name="#Operations" type="integer">4</XPD:ATTR>
 <XPD:OBJ name="Operations[0]" type="UMLOperation" guid="mksWpYwGe060UnwEzG/B5gAA">
-<XPD:ATTR name="Name" type="string">SistemaInfracciones</XPD:ATTR>
-<XPD:ATTR name="StereotypeName" type="string">Create</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">IniciarSistemaInfracciones</XPD:ATTR>
 <XPD:REF name="Owner">S565qWEOB0G/tBUhDHIbUQAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="zgtVDW/cFEWlDjYaAMaSkAAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="sWYsvlI8OkedaGclgnzJwwAA">
 <XPD:ATTR name="Name" type="string">baseMonetaria</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">double</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">mksWpYwGe060UnwEzG/B5gAA</XPD:REF>
